@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "SEASONS(A Eurobeat Mix)",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-02-20T15:01:26.661491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SEASONS (A eurobeat mix)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/01_SEASONS_(A_eurobeat_mix)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SEASONS (A Eurobeat Mix)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/02_SEASONS_(A_Eurobeat_Mix)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SEASONS (A Eurobeat Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/03_SEASONS_(A_Eurobeat_Mix_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SEASONS (A Eurobeat Mix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/04_SEASONS_(A_Eurobeat_Mix)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SEASONS (Eurobeat Mix)",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_SEASONS_(Eurobeat_Mix)_浜崎_あゆみ.txt"
+    }
+  ]
+}
